@@ -1,0 +1,8 @@
+{
+  "name": "9homes-api",
+  "version": "1.0.0",
+  "main": "9homes-server.js",
+  "scripts": {
+    "start": "node 9homes-server.js"
+  }
+}
